@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Tingting-multitasking/static/css/main.e23e6b48.chunk.css",
-    "main.js": "/Tingting-multitasking/static/js/main.3e79e2e8.chunk.js",
-    "main.js.map": "/Tingting-multitasking/static/js/main.3e79e2e8.chunk.js.map",
+    "main.js": "/Tingting-multitasking/static/js/main.5a3a33a2.chunk.js",
+    "main.js.map": "/Tingting-multitasking/static/js/main.5a3a33a2.chunk.js.map",
     "runtime-main.js": "/Tingting-multitasking/static/js/runtime-main.f5f9e834.js",
     "runtime-main.js.map": "/Tingting-multitasking/static/js/runtime-main.f5f9e834.js.map",
     "static/js/2.5e6e0aec.chunk.js": "/Tingting-multitasking/static/js/2.5e6e0aec.chunk.js",
     "static/js/2.5e6e0aec.chunk.js.map": "/Tingting-multitasking/static/js/2.5e6e0aec.chunk.js.map",
     "index.html": "/Tingting-multitasking/index.html",
-    "precache-manifest.a472de2a356b76e650d0c15251069495.js": "/Tingting-multitasking/precache-manifest.a472de2a356b76e650d0c15251069495.js",
+    "precache-manifest.3cebab5f4d16601e2c5ff7475ba4fcab.js": "/Tingting-multitasking/precache-manifest.3cebab5f4d16601e2c5ff7475ba4fcab.js",
     "service-worker.js": "/Tingting-multitasking/service-worker.js",
     "static/css/main.e23e6b48.chunk.css.map": "/Tingting-multitasking/static/css/main.e23e6b48.chunk.css.map",
     "static/js/2.5e6e0aec.chunk.js.LICENSE.txt": "/Tingting-multitasking/static/js/2.5e6e0aec.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f5f9e834.js",
     "static/js/2.5e6e0aec.chunk.js",
     "static/css/main.e23e6b48.chunk.css",
-    "static/js/main.3e79e2e8.chunk.js"
+    "static/js/main.5a3a33a2.chunk.js"
   ]
 }
