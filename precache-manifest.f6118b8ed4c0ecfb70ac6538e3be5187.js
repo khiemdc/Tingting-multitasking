@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bec245e656eb8e03528ad23d83d4c466",
+    "revision": "c5c1566e59d6775890f4ccd77f2c9cb5",
     "url": "/Tingting-multitasking/index.html"
   },
   {
-    "revision": "d5a4d79a055b93f88017",
+    "revision": "d7c981e7a9f5051330ef",
     "url": "/Tingting-multitasking/static/css/main.e23e6b48.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tingting-multitasking/static/js/2.5e6e0aec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5a4d79a055b93f88017",
-    "url": "/Tingting-multitasking/static/js/main.1086e419.chunk.js"
+    "revision": "d7c981e7a9f5051330ef",
+    "url": "/Tingting-multitasking/static/js/main.d553ecd9.chunk.js"
   },
   {
     "revision": "5694f2a1951fd70dc8bb",

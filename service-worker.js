@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tingting-multitasking/precache-manifest.ffccfc9371ef293075a32da846be9d79.js"
+  "/Tingting-multitasking/precache-manifest.f6118b8ed4c0ecfb70ac6538e3be5187.js"
 );
 
 self.addEventListener('message', (event) => {
